@@ -42,7 +42,7 @@ A Credit Risk head needs one monthly answer:
 ![Risk and Delinquency](docs/images/02_risk_delinquency.png)
 *Page 2: stress by DPD bucket, region x product heatmap, bucket migration matrix.*
 
-![Branch and Customer Insights](docs/images/01_branch_customer.png)
+![Branch and Customer Insights](docs/images/03_branch_customer.png)
 *Page 3: riskiest and safest branches, state ranking, customer segments.*
 
 ![Loan Details drill-through](docs/images/04_loan_details.png)
