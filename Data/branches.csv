@@ -1,0 +1,43 @@
+branch_id,branch_name,city,state,region
+BR001,Hyderabad - Main Road,Hyderabad,Telangana,South
+BR002,Hyderabad - Central,Hyderabad,Telangana,South
+BR003,Chennai - Main Road,Chennai,Tamil Nadu,South
+BR004,Chennai - Central,Chennai,Tamil Nadu,South
+BR005,Chennai - Market Square,Chennai,Tamil Nadu,South
+BR006,Bengaluru - Main Road,Bengaluru,Karnataka,South
+BR007,Bengaluru - Central,Bengaluru,Karnataka,South
+BR008,Bengaluru - Market Square,Bengaluru,Karnataka,South
+BR009,Kochi - Main Road,Kochi,Kerala,South
+BR010,Kochi - Central,Kochi,Kerala,South
+BR011,Mumbai - Main Road,Mumbai,Maharashtra,West
+BR012,Mumbai - Central,Mumbai,Maharashtra,West
+BR013,Pune - Main Road,Pune,Maharashtra,West
+BR014,Pune - Central,Pune,Maharashtra,West
+BR015,Pune - Market Square,Pune,Maharashtra,West
+BR016,Ahmedabad - Main Road,Ahmedabad,Gujarat,West
+BR017,Ahmedabad - Central,Ahmedabad,Gujarat,West
+BR018,Surat - Main Road,Surat,Gujarat,West
+BR019,Surat - Central,Surat,Gujarat,West
+BR020,Surat - Market Square,Surat,Gujarat,West
+BR021,Delhi - Main Road,Delhi,Delhi,North
+BR022,Delhi - Central,Delhi,Delhi,North
+BR023,Gurugram - Main Road,Gurugram,Haryana,North
+BR024,Gurugram - Central,Gurugram,Haryana,North
+BR025,Jaipur - Main Road,Jaipur,Rajasthan,North
+BR026,Jaipur - Central,Jaipur,Rajasthan,North
+BR027,Jaipur - Market Square,Jaipur,Rajasthan,North
+BR028,Lucknow - Main Road,Lucknow,Uttar Pradesh,North
+BR029,Lucknow - Central,Lucknow,Uttar Pradesh,North
+BR030,Lucknow - Market Square,Lucknow,Uttar Pradesh,North
+BR031,Chandigarh - Main Road,Chandigarh,Chandigarh,North
+BR032,Chandigarh - Central,Chandigarh,Chandigarh,North
+BR033,Chandigarh - Market Square,Chandigarh,Chandigarh,North
+BR034,Kolkata - Main Road,Kolkata,West Bengal,East
+BR035,Kolkata - Central,Kolkata,West Bengal,East
+BR036,Kolkata - Market Square,Kolkata,West Bengal,East
+BR037,Patna - Main Road,Patna,Bihar,East
+BR038,Patna - Central,Patna,Bihar,East
+BR039,Patna - Market Square,Patna,Bihar,East
+BR040,Bhubaneswar - Main Road,Bhubaneswar,Odisha,East
+BR041,Bhubaneswar - Central,Bhubaneswar,Odisha,East
+BR042,Bhubaneswar - Market Square,Bhubaneswar,Odisha,East

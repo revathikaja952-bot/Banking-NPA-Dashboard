@@ -1,0 +1,28 @@
+{
+  "name": "BankingTheme",
+  "dataColors": [
+    "#1F3A5F",
+    "#4A6FA5",
+    "#A9BCD6",
+    "#7F8C9A",
+    "#C9D1DA",
+    "#E67E22",
+    "#2E7D32",
+    "#C0392B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F3A5F",
+  "good": "#2E7D32",
+  "neutral": "#E67E22",
+  "bad": "#C0392B",
+  "maximum": "#C0392B",
+  "center": "#F3F4F6",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F2937" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#4B5563" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#1F3A5F" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#1F2937" }
+  }
+}
